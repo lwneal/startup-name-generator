@@ -5,8 +5,7 @@ import os
 import random
 import requests
 
-URL = 'http://splasho.com/upgoer5/phpspellcheck/dictionaries/1000.dicin'
-words = requests.get(URL).text.splitlines()
+words = open('ten_hundred_most_words.txt').read().splitlines()
 
 # Add memorable, easy-to-pronounce cute animals
 words.extend(['cat', 'dog', 'hamster', 'bat', 'puppy',
