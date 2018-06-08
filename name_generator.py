@@ -5,7 +5,9 @@ import os
 import random
 import requests
 
-words = open('ten_hundred_most_words.txt').read().splitlines()
+TECH_BUBBLE_FACTOR = 8
+
+words = []
 
 # Add memorable, easy-to-pronounce cute animals
 words.extend(['cat', 'dog', 'hamster', 'bat', 'puppy',
@@ -13,14 +15,20 @@ words.extend(['cat', 'dog', 'hamster', 'bat', 'puppy',
               'fox', 'panda', 'chimp', 'goat', 'zebra'])
 
 # Add startup buzzwords (NOTE: Refresh yearly)
-#words.extend(['drop', 'zen', 'box', 'dash', 'joy'])
-#words.extend(['joy', 'crate', 'air', 'tap', 'zip'])
+words.extend(['drop', 'zen', 'box', 'dash', 'com'])
+words.extend(['joy', 'crate', 'air', 'tap', 'zip'])
 words.extend(['coin', 'cash', 'bird', 'flow', 'source'])
 
 # Add tech buzzwords
 words.extend(['cloud', 'net', 'deep', 'data', 'bot',
               'mind', 'lab', 'labs', 'bit', 'bubble',
-              'hack', 'hub', 'crypto'])
+              'hack', 'hub', 'crypto', 'cyber'])
+
+# Attenuate ratio of buzzwords to normal words
+words *= TECH_BUBBLE_FACTOR
+
+# Append (the ten hundred most) common dictionary words
+words.extend(open('ten_hundred_most_words.txt').read().splitlines())
 
 # Remove contractions
 words = [w for w in words if "'" not in w]
@@ -32,7 +40,7 @@ words = [w for w in words if "." not in w]
 words = [w.lower() for w in words]
 
 # Remove duplicates
-words = list(set(words))
+#words = list(set(words))
 
 
 def name():
