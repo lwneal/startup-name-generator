@@ -4,7 +4,7 @@ Can't think of a name for your new website?
 
 Use this cutting-edge artificial intelligence system to generate one automatically.
 
-Powers the site [startupname.website].
+Powers the site [startupname.website](startupname.website).
 
 
 ## Command-Line Usage
