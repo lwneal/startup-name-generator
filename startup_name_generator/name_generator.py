@@ -29,14 +29,14 @@ words.extend(['cloud', 'net', 'deep', 'data', 'bot',
               'hack', 'hub', 'crypto', 'cyber', 'auth'])
 
 # Attenuate ratio of buzzwords to normal words based on macroeconomic conditions
-def compute_tech_bubble_factor(alpha=2.8, beta=5.2, gamma=2.97272):
+def compute_tech_bubble_factor(alpha=2.8, beta=9.2, gamma=2.97272):
     return int(alpha + math.cos(beta * (time.time() / gamma * 10e8)) + 0.5)
 
 words *= compute_tech_bubble_factor()
 
 # Append (the ten hundred most) common dictionary words
 filename = os.path.join(os.path.dirname(os.path.realpath(__file__)), 'ten_hundred_most_words.txt')
-words.extend(open(filename).read().splitlines())
+words.extend(open(filename).read().split() * 3)
 
 # Append additional words extracted from a state-of-the-art deep neural network
 filename = os.path.join(os.path.dirname(os.path.realpath(__file__)), 'neural_network_words.txt')

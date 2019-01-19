@@ -1,6 +1,6 @@
 tench Tinca tinca
 goldfish Carassius auratus
-great white shark white shark man-eater man-eating shark Carcharodon carcharias
+great white shark white shark man eater man eating shark Carcharodon carcharias
 tiger shark Galeocerdo cuvieri
 hammerhead hammerhead shark
 electric ray crampfish numbfish torpedo
@@ -29,7 +29,7 @@ eft
 spotted salamander Ambystoma maculatum
 axolotl mud puppy Ambystoma mexicanum
 bullfrog Rana catesbeiana
-tree frog tree-frog
+tree frog tree frog
 tailed frog bell toad ribbed toad tailed toad Ascaphus trui
 loggerhead loggerhead turtle Caretta caretta
 leatherback turtle leatherback leathery turtle Dermochelys coriacea
@@ -51,7 +51,7 @@ African crocodile Nile crocodile Crocodylus niloticus
 American alligator Alligator mississipiensis
 triceratops
 thunder snake worm snake Carphophis amoenus
-ringneck snake ring-necked snake ring snake
+ringneck snake ring necked snake ring snake
 hognose snake puff adder sand viper
 green snake grass snake
 king snake kingsnake
@@ -87,7 +87,7 @@ quail
 partridge
 African grey African gray Psittacus erithacus
 macaw
-sulphur-crested cockatoo Kakatoe galerita Cacatua galerita
+sulphur crested cockatoo Kakatoe galerita Cacatua galerita
 lorikeet
 coucal
 bee eater
@@ -96,12 +96,12 @@ hummingbird
 jacamar
 toucan
 drake
-red-breasted merganser Mergus serrator
+red breasted merganser Mergus serrator
 goose
 black swan Cygnus atratus
 tusker
 echidna spiny anteater anteater
-platypus duckbill duckbilled platypus duck-billed platypus Ornithorhynchus anatinus
+platypus duckbill duckbilled platypus duck billed platypus Ornithorhynchus anatinus
 wallaby brush kangaroo
 koala koala bear kangaroo bear native bear Phascolarctos cinereus
 wombat
@@ -114,7 +114,7 @@ conch
 snail
 slug
 sea slug nudibranch
-chiton coat-of-mail shell sea cradle polyplacophore
+chiton coat of mail shell sea cradle polyplacophore
 chambered nautilus pearly nautilus nautilus
 Dungeness crab Cancer magister
 rock crab Cancer irroratus
@@ -138,7 +138,7 @@ European gallinule Porphyrio porphyrio
 American coot marsh hen mud hen water hen Fulica americana
 bustard
 ruddy turnstone Arenaria interpres
-red-backed sandpiper dunlin Erolia alpina
+red backed sandpiper dunlin Erolia alpina
 redshank Tringa totanus
 dowitcher
 oystercatcher oyster catcher
@@ -153,7 +153,7 @@ Chihuahua
 Japanese spaniel
 Maltese dog Maltese terrier Maltese
 Pekinese Pekingese Peke
-Shih-Tzu
+Shih Tzu
 Blenheim spaniel
 papillon
 toy terrier
@@ -163,7 +163,7 @@ basset basset hound
 beagle
 bloodhound sleuthhound
 bluetick
-black-and-tan coonhound
+black and tan coonhound
 Walker hound Walker foxhound
 English foxhound
 redbone
@@ -186,7 +186,7 @@ Irish terrier
 Norfolk terrier
 Norwich terrier
 Yorkshire terrier
-wire-haired fox terrier
+wire haired fox terrier
 Lakeland terrier
 Sealyham terrier Sealyham
 Airedale Airedale terrier
@@ -200,15 +200,15 @@ standard schnauzer
 Scotch terrier Scottish terrier Scottie
 Tibetan terrier chrysanthemum dog
 silky terrier Sydney silky
-soft-coated wheaten terrier
+soft coated wheaten terrier
 West Highland white terrier
 Lhasa Lhasa apso
-flat-coated retriever
-curly-coated retriever
+flat coated retriever
+curly coated retriever
 golden retriever
 Labrador retriever
 Chesapeake Bay retriever
-German short-haired pointer
+German short haired pointer
 vizsla Hungarian pointer
 English setter
 Irish setter red setter
@@ -252,7 +252,7 @@ Siberian husky
 dalmatian coach dog carriage dog
 affenpinscher monkey pinscher monkey dog
 basenji
-pug pug-dog
+pug pug dog
 Leonberg
 Newfoundland Newfoundland dog
 Great Pyrenees
@@ -301,7 +301,7 @@ meerkat mierkat
 tiger beetle
 ladybug ladybeetle lady beetle ladybird ladybird beetle
 ground beetle carabid beetle
-long-horned beetle longicorn longicorn beetle
+long horned beetle longicorn longicorn beetle
 leaf beetle chrysomelid
 dung beetle
 rhinoceros beetle
@@ -357,12 +357,12 @@ llama
 weasel
 mink
 polecat fitch foulmart foumart Mustela putorius
-black-footed ferret ferret Mustela nigripes
+black footed ferret ferret Mustela nigripes
 otter
 skunk polecat wood pussy
 badger
 armadillo
-three-toed sloth ai Bradypus tridactylus
+three toed sloth ai Bradypus tridactylus
 orangutan orang orangutang Pongo pygmaeus
 gorilla Gorilla gorilla
 chimpanzee chimp Pan troglodytes
@@ -381,7 +381,7 @@ howler monkey howler
 titi titi monkey
 spider monkey Ateles geoffroyi
 squirrel monkey Saimiri sciureus
-Madagascar cat ring-tailed lemur Lemur catta
+Madagascar cat ring tailed lemur Lemur catta
 indri indris Indri indri Indri brevicaudatus
 Indian elephant Elephas maximus
 African elephant Loxodonta africana
@@ -410,7 +410,7 @@ amphibian amphibious vehicle
 analog clock
 apiary bee house
 apron
-ashcan trash can garbage can wastebin ash bin ash-bin ashbin dustbin trash barrel trash bin
+ashcan trash can garbage can wastebin ash bin ash bin ashbin dustbin trash barrel trash bin
 assault rifle assault gun
 backpack back pack knapsack packsack rucksack haversack
 bakery bakeshop bakehouse
@@ -442,9 +442,9 @@ beer bottle
 beer glass
 bell cote bell cot
 bib
-bicycle-built-for-two tandem bicycle tandem
-bikini two-piece
-binder ring-binder
+bicycle built for two tandem bicycle tandem
+bikini two piece
+binder ring binder
 binoculars field glasses opera glasses
 birdhouse
 boathouse
@@ -455,7 +455,7 @@ bookcase
 bookshop bookstore bookstall
 bottlecap
 bow
-bow tie bow-tie bowtie
+bow tie bow tie bowtie
 brass memorial tablet plaque
 brassiere bra bandeau
 breakwater groin groyne mole bulwark seawall jetty
@@ -474,7 +474,7 @@ canoe
 can opener tin opener
 cardigan
 car mirror
-carousel carrousel merry-go-round roundabout whirligig
+carousel carrousel merry go round roundabout whirligig
 carpenters kit tool kit
 carton
 car wheel
@@ -513,7 +513,7 @@ convertible
 corkscrew bottle screw
 cornet horn trumpet trump
 cowboy boot
-cowboy hat ten-gallon hat
+cowboy hat ten gallon hat
 cradle
 crane
 crash helmet
@@ -562,7 +562,7 @@ football helmet
 forklift
 fountain
 fountain pen
-four-poster
+four poster
 freight car
 French horn horn
 frying pan frypan skillet
@@ -571,11 +571,11 @@ garbage truck dustcart
 gasmask respirator gas helmet
 gas pump gasoline pump petrol pump island dispenser
 goblet
-go-kart
+go kart
 golf ball
 golfcart golf cart
 gondola
-gong tam-tam
+gong tam tam
 gown
 grand piano grand
 greenhouse nursery glasshouse
@@ -588,7 +588,7 @@ half track
 hammer
 hamper
 hand blower blow dryer blow drier hair dryer hair drier
-hand-held computer hand-held microcomputer
+hand held computer hand held microcomputer
 handkerchief hankie hanky hankey
 hard disc hard disk fixed disk
 harmonica mouth organ harp mouth harp
@@ -601,14 +601,14 @@ honeycomb
 hook claw
 hoopskirt crinoline
 horizontal bar high bar
-horse cart horse-cart
+horse cart horse cart
 hourglass
 iPod
 iron smoothing iron
-jack-o-lantern
+jack o lantern
 jean blue jean denim
 jeep landrover
-jersey T-shirt tee shirt
+jersey T shirt tee shirt
 jigsaw puzzle
 jinrikisha ricksha rickshaw
 joystick
@@ -669,7 +669,7 @@ mortarboard
 mosque
 mosquito net
 motor scooter scooter
-mountain bike all-terrain bike off-roader
+mountain bike all terrain bike off roader
 mountain tent
 mouse computer mouse
 mousetrap
@@ -686,7 +686,7 @@ ocarina sweet potato
 odometer hodometer mileometer milometer
 oil filter
 organ pipe organ
-oscilloscope scope cathode-ray oscilloscope CRO
+oscilloscope scope cathode ray oscilloscope CRO
 overskirt
 oxcart
 oxygen mask
@@ -705,7 +705,7 @@ park bench
 parking meter
 passenger car coach carriage
 patio terrace
-pay-phone pay-station
+pay phone pay station
 pedestal plinth footstall
 pencil box pencil case
 pencil sharpener
@@ -720,7 +720,7 @@ pier
 piggy bank penny bank
 pill bottle
 pillow
-ping-pong ball
+ping pong ball
 pinwheel
 pirate pirate ship
 pitcher ewer
@@ -761,7 +761,7 @@ reflex camera
 refrigerator icebox
 remote control remote
 restaurant eating house eating place eatery
-revolver six-gun six-shooter
+revolver six gun six shooter
 rifle
 rocking chair rocker
 rotisserie
@@ -786,7 +786,7 @@ screwdriver
 seat belt seatbelt
 sewing machine
 shield buckler
-shoe shop shoe-shop shoe store
+shoe shop shoe shop shoe store
 shoji
 shopping basket
 shopping cart
@@ -798,7 +798,7 @@ ski mask
 sleeping bag
 slide rule slipstick
 sliding door
-slot one-armed bandit
+slot one armed bandit
 snorkel
 snowmobile
 snowplow snowplough
@@ -831,7 +831,7 @@ streetcar tram tramcar trolley trolley car
 stretcher
 studio couch day bed
 stupa tope
-submarine pigboat sub U-boat
+submarine pigboat sub U boat
 suit suit of clothes
 sundial
 sunglass
@@ -894,7 +894,7 @@ wall clock
 wallet billfold notecase pocketbook
 wardrobe closet press
 warplane military plane
-washbasin handbasin washbowl lavabo wash-hand basin
+washbasin handbasin washbowl lavabo wash hand basin
 washer automatic washer washing machine
 water bottle
 water jug
@@ -910,7 +910,7 @@ wing
 wok
 wooden spoon
 wool woolen woollen
-worm fence snake fence snake-rail fence Virginia fence
+worm fence snake fence snake rail fence Virginia fence
 wreck
 yawl
 yurt
@@ -970,13 +970,13 @@ cup
 eggnog
 alp
 bubble
-cliff drop drop-off
+cliff drop drop off
 coral reef
 geyser
 lakeside lakeshore
 promontory headland head foreland
 sandbar sand bar
-seashore coast seacoast sea-coast
+seashore coast seacoast sea coast
 valley vale
 volcano
 ballplayer baseball player
@@ -984,7 +984,7 @@ groom bridegroom
 scuba diver
 rapeseed
 daisy
-yellow ladys slipper yellow lady-slipper Cypripedium calceolus Cypripedium parviflorum
+yellow ladys slipper yellow lady slipper Cypripedium calceolus Cypripedium parviflorum
 corn
 acorn
 hip rose hip rosehip
@@ -994,7 +994,7 @@ agaric
 gyromitra
 stinkhorn carrion fungus
 earthstar
-hen-of-the-woods hen of the woods Polyporus frondosus Grifola frondosa
+hen of the woods hen of the woods Polyporus frondosus Grifola frondosa
 bolete
 ear spike capitulum
 toilet tissue toilet paper bathroom tissue
