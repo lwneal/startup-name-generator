@@ -1,0 +1,56 @@
+<style>
+body {
+    background-color: #e0e0e0;
+}
+button {
+    border: 3px solid #fff;
+    border-radius: 100px;
+    cursor: pointer;
+    display: inline-block;
+    height: 100px;
+    width: 400px;
+    margin: 30px;
+    color: white;
+    font-size: 18pt;
+}
+.update_btn {
+    background: #108fe8;
+    box-shadow: 0 -2px 0 3px #0d72b8 inset, 0 5px 5px rgba(3, 25, 41, 0.17), 0 15px rgba(224, 224, 224, 0.25) inset;
+}
+.update_btn:hover{
+    background: linear-gradient(#e0e0e0, #108fe8);
+}
+.launch_btn {
+    background: #10e86b;
+    box-shadow: 0 -2px 0 3px #0db872 inset, 0 5px 5px rgba(3, 42, 25, 0.17), 0 15px rgba(224, 224, 224, 0.25) inset;
+}
+.launch_btn:hover{
+    background: linear-gradient(#e0e0e0, #10e88f);
+}
+.text {
+    font-family: sans-serif;
+    font-size: 20pt;
+    margin: 20px;
+}
+.name {
+    font-family: sans-serif;
+    font-size: 36pt;
+    margin: 80px;
+    color: #101010;
+}
+</style>
+<center>
+    <p class="text">
+    Your startup name is...
+    </p>
+    <div class="name">
+    {{startup_name}}
+    </div>
+    <a href="https://www.namecheap.com/domains/registration/results.aspx?domain={{startup_name}}">
+        <button class="launch_btn">Launch This Startup</button>
+    </a>
+    <br>
+    <a href="/">
+        <button class="update_btn">Another Name</button>
+    </a>
+</center>
