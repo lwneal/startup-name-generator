@@ -63,7 +63,7 @@ def whois(name):
         return
 
     taken_msg = 'That domain name is taken'
-    available_msg = 'Congratulations, your startup name is NOT YET TAKEN!'
+    available_msg = 'Congratulations, your startup name is available!'
     cmd = 'whois {} | grep -v "No match for" | grep -i {} && echo {} || echo "{}"'
     os.system(cmd.format(name, name, taken_msg, available_msg))
     print('')
