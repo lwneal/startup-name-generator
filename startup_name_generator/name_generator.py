@@ -6,6 +6,7 @@ import random
 import requests
 import time
 import math
+import distutils
 
 words = []
 
@@ -34,10 +35,12 @@ def compute_tech_bubble_factor(alpha=2.8, beta=5.2, gamma=2.97272):
 words *= compute_tech_bubble_factor()
 
 # Append (the ten hundred most) common dictionary words
-words.extend(open('ten_hundred_most_words.txt').read().splitlines())
+filename = os.path.join(os.path.dirname(os.path.realpath(__file__)), 'ten_hundred_most_words.txt')
+words.extend(open(filename).read().splitlines())
 
 # Append additional words extracted from a state-of-the-art deep neural network
-words.extend(open('neural_network_words.txt').read().split())
+filename = os.path.join(os.path.dirname(os.path.realpath(__file__)), 'neural_network_words.txt')
+words.extend(open(filename).read().split())
 
 # Remove contractions
 words = [w for w in words if "'" not in w]
@@ -55,15 +58,12 @@ def name():
 
 
 def whois(name):
+    if not distutils.spawn.find_executable("whois"):
+        print("Error: whois is not installed, cannot check for domain {}".format(name))
+        return
+
     taken_msg = 'That domain name is taken'
     available_msg = 'Congratulations, your startup name is NOT YET TAKEN!'
     cmd = 'whois {} | grep -v "No match for" | grep -i {} && echo {} || echo "{}"'
     os.system(cmd.format(name, name, taken_msg, available_msg))
-    print ''
-
-
-while True:
-    startup = name()
-    print 'is \033[32;1;1m{}\033[0m a good name (y/N)?'.format(startup)
-    if raw_input().lower().startswith('y'):
-        whois(startup)
+    print('')

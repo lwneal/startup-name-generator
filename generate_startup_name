@@ -1,0 +1,13 @@
+#!/usr/bin/env python
+from startup_name_generator.name_generator import name, whois
+
+def main():
+    while True:
+        startup = name()
+        print('is \033[32;1;1m{}\033[0m a good name (y/N)?'.format(startup))
+        if raw_input().lower().startswith('y'):
+            whois(startup)
+
+
+if __name__ == '__main__':
+    main()
