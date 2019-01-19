@@ -23,6 +23,7 @@ button {
 .launch_btn {
     background: #10e86b;
     box-shadow: 0 -2px 0 3px #0db872 inset, 0 5px 5px rgba(3, 42, 25, 0.17), 0 15px rgba(224, 224, 224, 0.25) inset;
+    width: 300px;
 }
 .launch_btn:hover{
     background: linear-gradient(#e0e0e0, #10e88f);
@@ -46,11 +47,16 @@ button {
     <div class="name">
     {{startup_name}}
     </div>
+    <a href="/">
+        <button class="update_btn">Another Name</button>
+    </a>
+    <br>
     <a href="https://www.namecheap.com/domains/registration/results.aspx?domain={{startup_name}}">
         <button class="launch_btn">Launch This Startup</button>
     </a>
     <br>
-    <a href="/">
-        <button class="update_btn">Another Name</button>
+    <br>
+    Source at <a href="http://github.com/lwneal/startup-name-generator">
+    http://github.com/lwneal/startup-name-generator
     </a>
 </center>
