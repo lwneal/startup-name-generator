@@ -52,8 +52,14 @@ words = [w for w in words if "." not in w]
 words = [w.lower() for w in words]
 
 
-def name():
-    tokens = [random.choice(words), random.choice(words), '.com']
+def name(extra_keywords=None):
+    if extra_keywords:
+        selected_words = words[:]
+        for i in range(1000):
+            selected_words.extend(extra_keywords)
+    else:
+        selected_words = words
+    tokens = [random.choice(selected_words), random.choice(selected_words), '.com']
     return ''.join(tokens)
 
 
@@ -61,7 +67,6 @@ def whois(name):
     if not distutils.spawn.find_executable("whois"):
         print("Error: whois is not installed, cannot check for domain {}".format(name))
         return
-
     taken_msg = 'That domain name is taken'
     available_msg = 'Congratulations, your startup name is available!'
     cmd = 'whois {} | grep -v "No match for" | grep -i {} && echo {} || echo "{}"'
