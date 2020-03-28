@@ -49,7 +49,7 @@ Community contributions welcome via pull request. Domain names available as of l
 * **callinterest.com**: a low-fee options trading site
 * **yakrock.com**: yak on a rock
 * **seriouspolice.com**: seriously, the police
-* **girlfriendworry.com**: are they cheating on you? Track them with our app...
+* **girlfriendworry.com**: a surveillance app for jealous lovers
 * **sadthink.com**: an online counseling site for depression
 * **foundseat.com**: a plane ticket aggregator
 * **balldrag.com**: it's balldrag, baby!
@@ -64,7 +64,7 @@ Community contributions welcome via pull request. Domain names available as of l
 * **tallpaint.com**: cheap home painting service
 * **quicklyneed.com**: local delivery concierge service
 * **avoidfeel.com**: don't express your emotions, click here to just hold them inside
-* **moviegrow.com**: IMDB-style movie ratings site
+* **moviegrow.com**: an IMDB-style movie ratings site
 * **funlean.com**: Meetup-style outdoor activities to stay fit
 * **fewsleep.com**: forum for polyphasic sleep enthusiasts
 * **paintsometimes.com**: a site with nothing but Bob Ross videos
@@ -128,7 +128,7 @@ Community contributions welcome via pull request. Domain names available as of l
 * **legdone.com**: click here to get your leg done
 * **hadbaby.com**: had baby? not sure what to do next? Click here to find out
 * **dinnergrab.com**: the better way to get food delivered
-* **whetherstraight.com**: not sure if someone is gay? use this quiz to find out
+* **whetherstraight.com**: not sure if straight or gay? use this quiz to find out
 * **shitbody.com**: for posting "before" pics
 * **wishforget.com**: a place to forget your wishes
 * **dryfew.com**: just need to dry a few of them
@@ -140,3 +140,10 @@ Community contributions welcome via pull request. Domain names available as of l
 * **helmetpalace.com**: quality helmets at low, low prices
 * **cutebinoculars.com**: a dating site for birdwatching enthusiasts
 * **armadillomovie.com**: marketing site for Armadillo: The Movie (copyright 2020)
+* **dishblow.com**: an innovatinve IoT dish drying appliance
+* **cityupon.com**: a political news site for John Winthrop fans
+* **yeahsimply.com**: easy-to-use cellular network provider
+* **goosemachine.com**: a robot that looks like a goose
+* **mindalso.com**: a mindfulness and meditation forum
+* **chainhug.com**: like Hands Across America but with hugs
+* **heartsoftly.com**: a lifestyle app, or maybe a podcast service
