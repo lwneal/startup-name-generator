@@ -50,8 +50,8 @@ Community contributions welcome via pull request. Domain names available as of l
 * **yakrock.com**: yak on a rock
 * **seriouspolice.com**: seriously, the police
 * **girlfriendworry.com**: are they cheating on you? Track them with our app...
-* **sadthink.com**: online counciling for depression
-* **foundseat.com**: plane ticket aggregator
+* **sadthink.com**: an online counseling site for depression
+* **foundseat.com**: a plane ticket aggregator
 * **balldrag.com**: it's balldrag, baby!
 * **yourselfdraw.com**: an interactive neural network style transfer app
 * **sawpass.com**: sharing-economy tool rental site
@@ -136,3 +136,7 @@ Community contributions welcome via pull request. Domain names available as of l
 * **ringbefore.com**: make a phone call to us before you do this thing...
 * **hatebreak.com**: stop hate! Or, a forum for discussing how much we hate things
 * **puppymention.com**: social ratings for adorable puppies
+* **torpedoeagle.com**: site for naval warfare enthusiasts
+* **helmetpalace.com**: quality helmets at low, low prices
+* **cutebinoculars.com**: a dating site for birdwatching enthusiasts
+* **armadillomovie.com**: marketing site for Armadillo: The Movie (copyright 2020)
