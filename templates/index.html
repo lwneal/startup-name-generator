@@ -1,3 +1,8 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Startup Name Generator</title>
 <style>
 body {
     background-color: #e0e0e0;
@@ -35,11 +40,26 @@ button {
 }
 .name {
     font-family: sans-serif;
-    font-size: 36pt;
     margin: 80px;
     color: #101010;
+    font-size: 80px;
+    text-align: center;
+    -webkit-animation: glow 1s ease-in-out infinite alternate;
+    -moz-animation: glow 1s ease-in-out infinite alternate;
+    animation: glow 1s ease-in-out infinite alternate;
+}
+
+@-webkit-keyframes glow {
+  from {
+    text-shadow: 0 0 10px #fff, 0 0 20px #00f, 0 0 30px #aaf, 0 0 40px #aaf, 0 0 50px #aaf, 0 0 60px #aaf, 0 0 70px #aaf;
+  }
+  to {
+    text-shadow: 0 0 20px #fff, 0 0 30px #f00, 0 0 40px #f00, 0 0 50px #f00, 0 0 60px #f00, 0 0 70px #f00, 0 0 80px #f00;
+  }
 }
 </style>
+</head>
+<body>
 <center>
     <p class="text">
     Your startup name is...
@@ -56,7 +76,7 @@ button {
     </a>
     <br>
     <br>
-    Source at <a href="http://github.com/lwneal/startup-name-generator">
-    http://github.com/lwneal/startup-name-generator
-    </a>
+    Star this project on <a href="https://github.com/lwneal/startup-name-generator">GitHub</a>
 </center>
+</body>
+</html>
