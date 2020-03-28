@@ -2,7 +2,7 @@
 
 Can't think of a name for your new website?
 
-Use this cutting-edge artificial intelligence system to generate one automatically.
+Use this innovative artificial intelligence system to generate one automatically.
 
 Powers the site [startupname.website](https://startupname.website).
 
@@ -147,3 +147,8 @@ Community contributions welcome via pull request. Domain names available as of l
 * **mindalso.com**: a mindfulness and meditation forum
 * **chainhug.com**: like Hands Across America but with hugs
 * **heartsoftly.com**: a lifestyle app, or maybe a podcast service
+* **bottlesave.com**: recycling and refill service for reusable bottles
+* **letbadger.com**: Let Go and Let Badger
+* **automatedhouse.com**: an Internet-of-Things smart home service
+* **sandalfeet.com**: online store for Birkenstocks
+* **avoidpencil.com**: pencil considered harmful. Prefer pen.
