@@ -15,4 +15,4 @@ def favicon():
     return flask.send_from_directory('static', 'favicon.ico')
 
 if __name__ == '__main__':
-    app.run('0.0.0.0', port=8042)
+    app.run('0.0.0.0', port=8005, threaded=True)
