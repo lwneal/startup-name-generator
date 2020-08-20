@@ -26,7 +26,8 @@ words.extend(['smart', 'pin', 'zoom', 'base', 'flare'])
 # Add tech buzzwords (NOTE: Refresh monthly)
 words.extend(['cloud', 'net', 'deep', 'data', 'bot',
               'mind', 'lab', 'labs', 'bit', 'bubble',
-              'hack', 'hub', 'crypto', 'cyber', 'auth'])
+              'hack', 'hub', 'crypto', 'cyber', 'auth',
+              'zoom', 'herd', 'mask', 'clear', 'flux'])
 
 # Attenuate ratio of buzzwords to normal words based on macroeconomic conditions
 def compute_tech_bubble_factor(alpha=2.8, beta=9.2, gamma=2.97272):
