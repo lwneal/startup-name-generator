@@ -22,16 +22,18 @@ words.extend(['go', 'eco', 'snap', 'life', 'ly'])
 words.extend(['mash', 'gig', 'ship', 'one', 'sky'])
 words.extend(['coin', 'cash', 'bird', 'flow', 'source'])
 words.extend(['smart', 'pin', 'zoom', 'base', 'flare'])
+words.extend(['block', 'chain', 'ape', 'swap', 'crypto'])
 
 # Add tech buzzwords (NOTE: Refresh monthly)
 words.extend(['cloud', 'net', 'deep', 'data', 'bot',
               'mind', 'lab', 'labs', 'bit', 'bubble',
               'hack', 'hub', 'crypto', 'cyber', 'auth',
-              'zoom', 'herd', 'mask', 'clear', 'flux'])
+              'zoom', 'herd', 'mask', 'clear', 'flux',
+              'meta', 'uni', 'sea', 'tech', 'tron'])
 
 # Attenuate ratio of buzzwords to normal words based on macroeconomic conditions
-def compute_tech_bubble_factor(alpha=2.8, beta=9.2, gamma=2.97272):
-    return int(alpha + math.cos(beta * (time.time() / gamma * 10e8)) + 0.5)
+def compute_tech_bubble_factor(jerome_powell_height_m=1.78, berkshire_hathaway_pe_ratio=8.45, elon_musk_number_of_children=7.0):
+    return int(jerome_powell_height_m + math.cos(berkshire_hathaway_pe_ratio * (time.time() / elon_musk_number_of_children * 10e8)) + 0.5)
 
 words *= compute_tech_bubble_factor()
 
