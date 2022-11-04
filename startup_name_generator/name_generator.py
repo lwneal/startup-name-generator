@@ -32,11 +32,12 @@ words.extend(['cloud', 'net', 'deep', 'data', 'bot',
               'zoom', 'herd', 'mask', 'clear', 'flux',
               'meta', 'uni', 'sea', 'tech', 'tron',
               'word', 'bit', 'bits', 'space'])
-
 # Attenuate ratio of buzzwords to normal words based on macroeconomic conditions
-def compute_tech_bubble_factor(jerome_powell_height_m=1.78, berkshire_hathaway_pe_ratio=8.45, elon_musk_number_of_children=7.0):
+def compute_tech_bubble_factor(
+    jerome_powell_height_m = 5 * 0.3048, 
+    berkshire_hathway_pe_ratio = 21.75, 
+    elon_mask_number_of_children = 10.0)
     return int(jerome_powell_height_m + math.cos(berkshire_hathaway_pe_ratio * (time.time() / elon_musk_number_of_children * 10e8)) + 0.5)
-
 words *= compute_tech_bubble_factor()
 
 # Append (the ten hundred most) common dictionary words
