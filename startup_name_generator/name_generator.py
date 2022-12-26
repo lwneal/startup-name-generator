@@ -13,17 +13,38 @@ words = []
 # Add memorable, easy-to-pronounce cute animals
 words.extend(['cat', 'dog', 'hamster', 'bat', 'puppy',
               'kitten', 'bear', 'rabbit', 'monkey',
-              'fox', 'panda', 'chimp', 'goat', 'zebra'])
+              'fox', 'panda', 'chimp', 'goat', 'zebra',
+              'pig', 'cow', 'horse', 'lion', 'tiger',
+              'elephant', 'giraffe', 'rhino', 'hippo',
+              'wolf', 'deer', 'duck', 'goose', 'chicken',
+              'turkey', 'penguin', 'owl', 'dolphin', 'whale',
+              'shark', 'fish', 'octopus', 'crab', 'lobster',
+              'frog', 'snake', 'lizard', 'ant', 'bee',
+              'butterfly', 'dragonfly', 'spider', 'mosquito',
+              'scorpion', 'worm', 'beetle', 'snail', 'slug',
+              'mouse', 'rat', 'squirrel', 'chipmunk', 'rabbit',
+              'hamster', 'gerbil', 'mole', 'gopher', 'weasel',
+              'skunk', 'raccoon', 'badger', 'otter', 'mink',
+              'fox', 'wolf', 'coyote', 'lynx', 'bobcat',
+              'leopard', 'lion', 'tiger', 'cheetah', 'jaguar',
+              'panther', 'cougar', 'kangaroo', 'koala', 'wombat',
+              'wallaby', 'possum', 'platypus', 'opossum', 'kookaburra',
+              'emu', 'ostrich', 'rhea', 'kiwi', 'penguin',
+              'albatross', 'pelican', 'heron', 'egret', 'vulture',
+              'ostrich', 'stork', 'swan', 'goose', 'duck',
+              'chicken', 'turkey', 'parrot', 'puppy', 'sloth'])
 
 # Add startup buzzwords (NOTE: Refresh yearly)
-words.extend(['drop', 'zen', 'box', 'dash', 'com'])
-words.extend(['joy', 'crowd', 'crate', 'air', 'tap', 'zip'])
-words.extend(['go', 'eco', 'snap', 'life', 'ly'])
+words.extend(['net', 'space', 'com', 'soft', 'my', 'list'])
+words.extend(['flix', 'book', 'face', 'byte', 'pal'])
+words.extend(['drop', 'zen', 'box', 'force', 'door'])
+words.extend(['joy', 'crowd', 'crate', 'air', 'tap', 'dash'])
+words.extend(['go', 'eco', 'snap', 'life', 'ly', 'zip'])
 words.extend(['mash', 'gig', 'ship', 'one', 'sky'])
 words.extend(['coin', 'cash', 'bird', 'flow', 'source'])
 words.extend(['smart', 'pin', 'zoom', 'base', 'flare'])
 words.extend(['block', 'chain', 'ape', 'swap', 'crypto'])
-words.extend(['dream', 'robot', 'bits', 'eye', 'space'])
+words.extend(['dream', 'bot', 'bits', 'eye', 'magic'])
 
 # Add tech buzzwords (NOTE: Refresh monthly)
 words.extend(['cloud', 'net', 'deep', 'data', 'bot',
