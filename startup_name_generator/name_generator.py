@@ -8,6 +8,8 @@ import time
 import math
 import distutils
 
+from . import gpt_describe_name
+
 words = []
 
 # Add memorable, easy-to-pronounce cute animals
@@ -98,3 +100,9 @@ def whois(name):
     cmd = 'whois {} | grep -v "No match for" | grep -i {} && echo {} || echo "{}"'
     os.system(cmd.format(name, name, taken_msg, available_msg))
     print('')
+
+
+def name_with_description():
+    new_name = name()
+    description = gpt_describe_name.describe_name(new_name)
+    return new_name, description
